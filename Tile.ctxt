@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Tile
+comment1.params=
+comment1.target=java.lang.String\ getchildColor()
+comment2.params=childColor
+comment2.target=void\ setchildColor(java.lang.String)
+comment3.params=
+comment3.target=int\ getchildValue()
+comment4.params=childValue
+comment4.target=void\ setchildValue(int)
+comment5.params=
+comment5.target=java.lang.String\ getparentColor()
+comment6.params=parentColor
+comment6.target=void\ setparentColor(java.lang.String)
+comment7.params=
+comment7.target=int\ getparentValue()
+comment8.params=parentValue
+comment8.target=void\ setparentValue(int)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
